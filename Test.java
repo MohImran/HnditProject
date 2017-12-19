@@ -11,4 +11,7 @@ double fee=sc.nextDouble();
 System.out.println("Rollno:"+rollno+"name:"+name+"fee:"+fee);
 sc.close();
 }
+public void strCompare(){
+String s1="Sachin";
+}
 }
